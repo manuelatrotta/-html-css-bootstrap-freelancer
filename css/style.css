@@ -6,6 +6,17 @@
 .margin_bottom10{
   margin-bottom: 10%;
 }
+#nav-header{
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  height: 50px;
+}
+#jumbo{
+  padding: 20px;
+}
 /*media md and xs header*/
 @media screen and (max-width: 992px) and (min-width: 768px){
   #jumbo{
