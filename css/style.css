@@ -3,9 +3,8 @@
   background-color: red;
   border: 2px solid black;
 }
-/*header*/
-#nav-header{
-  display: block;
+.margin_bottom10{
+  margin-bottom: 10%;
 }
 /*media md and xs header*/
 @media screen and (max-width: 992px) and (min-width: 768px){
@@ -15,8 +14,12 @@
 }
 /*portfolio*/
 .portfolio-box{
-  height: 100px;
-  margin: 5% auto;
+  height: 80px;
+  margin: 10px;
   background-color: blue;
   border-radius: 5px;
+}
+/*copyright*/
+.copyright{
+  height: 100px;
 }
