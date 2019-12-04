@@ -20,6 +20,9 @@
 .btn_green .glyphicon{
   vertical-align: text-top;
 }
+.border_redius5{
+  border-radius: 5px;
+}
 .font_size30{
   font-size: 30px;
 }
@@ -75,6 +78,32 @@
   display: block;
   font-size: 30px;
 }
+.portfolio_bg{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#cabin{
+  background-image: url(https://blackrockdigital.github.io/startbootstrap-freelancer/img/portfolio/cabin.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#cake{
+  background-image: url(https://blackrockdigital.github.io/startbootstrap-freelancer/img/portfolio/cake.png);
+}
+#circus{
+  background-image: url(https://blackrockdigital.github.io/startbootstrap-freelancer/img/portfolio/circus.png);
+}
+#game{
+  background-image: url(https://blackrockdigital.github.io/startbootstrap-freelancer/img/portfolio/game.png);
+}
+#safe{
+  background-image: url(https://blackrockdigital.github.io/startbootstrap-freelancer/img/portfolio/safe.png);
+}
+#submarine{
+  background-image: url(https://blackrockdigital.github.io/startbootstrap-freelancer/img/portfolio/submarine.png);
+}
 
 /* Jumbo */
 .jumbo {
@@ -92,6 +121,8 @@
   margin-bottom: 30px;
   background-color: blue;
 }
+
+
 
 /* Footer */
 .footer_top {
