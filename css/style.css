@@ -28,8 +28,15 @@
   left: 0;
   width: 100%;
   height: 80px;
-  background: blue;
+  background: #2c3e50;
   line-height: 80px;
+}
+
+.font_size30{
+  font-size: 30px;
+}
+.color_white{
+  color: white;
 }
 
 /* Jumbo */
