@@ -32,7 +32,9 @@
 .size_30{
   width:30%;
 }
-
+.color_darkblue{
+  color:#2c3e50;
+}
 /* header */
 .header_top {
   position: fixed;
@@ -53,7 +55,7 @@
   width: 100%;
   max-width: 100px;
   height: 5px;
-  border-bottom: 5px solid #fff;
+  border-bottom: 5px solid #2c3e50;
   border-radius: 4px;
 }
 .icon_star::before{
@@ -66,14 +68,14 @@
   width: 100%;
   max-width: 100px;
   height: 5px;
-  border-bottom: 5px solid #fff;
+  border-bottom: 5px solid #2c3e50;
   border-radius: 4px;
 }
 .icon_star{
   display: block;
   font-size: 30px;
-  color: #fff;
 }
+
 /* Jumbo */
 .jumbo {
   margin-top: 80px;
