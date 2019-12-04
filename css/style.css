@@ -10,7 +10,7 @@
   margin: 0 auto;
 }
 .bg_green {
-  background-color: lightgreen;
+  background-color: #1abc9c;
 }
 .btn_green {
   background-color: #158F77;
@@ -35,10 +35,15 @@
 .font_size30{
   font-size: 30px;
 }
+.font-size65{
+  font-size: 65px;
+}
 .color_white{
   color: white;
 }
-
+.size_30{
+  width:30%;
+}
 /* Jumbo */
 .jumbo {
   margin-top: 80px;
